@@ -1,0 +1,56 @@
+ ## Description
+This project demonstrates the basic concepts of JavaScript, including objects, arrays, arrays of objects, classes, loops, conditional statements, and object-oriented programming.
+
+The program runs in the browser console and uses `console.log()` to display the output.
+
+## Features
+
+- Creates and manipulates JavaScript objects.
+- Creates and displays arrays.
+- Loops through arrays.
+- Creates an array of student objects.
+- Determines whether students have passed or failed.
+- Implements a Student class.
+- Uses methods to introduce students and check their results.
+
+## Technologies Used
+
+- JavaScript (ES6)
+
+## Project Structure
+
+```
+project-folder/
+│── script.js
+│── README.md
+```
+
+## How to Run
+
+1. Open the project folder in Visual Studio Code.
+2. Open `script.js`.
+3. Open the browser Developer Tools (F12).
+4. Select the **Console** tab.
+5. Run the program using Live Server or execute the file in the browser.
+6. View the output in the console.
+
+## Concepts Covered
+
+- Variables
+- Objects
+- Arrays
+- Arrays of Objects
+- Loops
+- Conditional Statements
+- Classes
+- Methods
+- Functions
+- Object-Oriented Programming
+
+## Author
+
+Edwin Kimani
+
+## License
+
+This project is licensed under the MIT License.
