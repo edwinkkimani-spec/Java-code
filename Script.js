@@ -15,7 +15,7 @@ const Student ={
     console.log("course:"+Student.course);
 
     //Print All details:
-    console.log("Student Details:",   Student );
+    console.log("Student Details:", Student );
 
 
        if(Student.score >=50){
@@ -100,6 +100,7 @@ const ClassList = [
             introduce() {
                 console.log(`Hello: ${this.name}. `);
             }
+
                
            checkResult() {
              if(this.score >=50) {
@@ -115,21 +116,26 @@ const ClassList = [
 
 
     }
+
      
  const Student1= new StudentClass("Tevin",19,"Data Science",85 );
  const Student2 = new StudentClass("Ronald",23,"Python",35);
  const Student3 = new StudentClass("Maya", 24,"Web Design",50);
+
  
  
  Student1.introduce();
  Student1.checkResult();
+
  
 Student2.introduce();
 Student2.checkResult();
 
 
+
 Student3.introduce();
 Student3.checkResult();
+
 
 
 
