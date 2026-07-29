@@ -98,7 +98,7 @@ const ClassList = [
             }
 
             introduce() {
-                console.log(`Hello ${this.name} `);
+                console.log(`Hello: ${this.name}. `);
             }
                
            checkResult() {
